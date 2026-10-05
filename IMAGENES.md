@@ -1,0 +1,1 @@
+Hero generado con herramienta integrada ImageGen. Prompt: agencia moderna de autos en Barracas a la hora azul, fachada vidriada, sedanes negros y SUV/coupé blancos al frente, luces azules discretas y reflejos, sin texto ni logos. Parallax: emblema azul original provisto. Fotos originales optimizadas WebP, sin modificar vehículos.
